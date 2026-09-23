@@ -1,0 +1,12 @@
+# Analysis libraries and IPython used by the submitted notebook.
+# Versions match its executed Python 3.12 environment.
+numpy==2.5.3
+pandas==3.0.6
+matplotlib==3.11.2
+seaborn==0.13.2
+scikit-learn==1.9.1
+ipython==9.17.1
+
+# Python kernel and interface required for `jupyter notebook`.
+ipykernel==7.3.0
+notebook==7.6.3
